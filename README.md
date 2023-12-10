@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishikakumari08
 - 👀 I’m interested in web developing,AI,ML
-- 🌱 I’m currently learning web devplopment
+- 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my linkind-https://www.linkedin.com/in/rishika-kumari-b91472274
 
